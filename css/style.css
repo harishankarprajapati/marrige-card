@@ -437,6 +437,27 @@ line-height: normal;
 .main-img-i {
     margin-bottom: -41px;
 }
+.sec-manin-add2{
+    color:#FFD600;
+text-align: center;
+font-size: 20px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.sec-manin-add22{
+    color:#FFf;
+text-align: center;
+font-size: 20px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
+
 @media only screen and (max-width: 767px) {
     .sec-fllo-bgg {
         padding: 73px 0px 0px 0px;
