@@ -481,6 +481,9 @@ div#projects {
     font-weight: 800;
     line-height: normal;
 }
+.sec-calsaa-img{
+    width: 67%;
+}
 
 @media only screen and (max-width: 767px) {
     .sec-fllo-bgg {
@@ -512,6 +515,7 @@ li span {
 }
 li {
     font-size: 12px;
+    padding: 2px;
 }
 .sec-fllo-bgg {
     padding: 52px 0px 0px 0px;
@@ -551,5 +555,12 @@ li {
 }
 div#projects {
     margin-top: -67px;
+}
+.sec-prajapti-h {
+    color: #FFD600;
+    font-size: 58px;
+}
+#headline {
+    font-size: 19px;
 }
   }
