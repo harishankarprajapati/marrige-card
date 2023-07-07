@@ -455,8 +455,32 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 }
-
-
+.sec-manin-add223{
+    color:#FFf;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.sec-arrow-im{
+    width:250px;
+}
+div#projects {
+    margin-top: -80px;
+}
+.sec-par-p{
+    padding-top: 20px;
+    margin-bottom: -40px;
+    color:#FFf;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
 
 @media only screen and (max-width: 767px) {
     .sec-fllo-bgg {
@@ -476,4 +500,56 @@ line-height: normal;
     li {
         font-size: 16px;
     }
+    .main-img-i img {
+        width: 100%;
+    }
+  }
+
+  @media only screen and (max-width: 320px) {
+   
+li span {
+    font-size: 27px;
+}
+li {
+    font-size: 12px;
+}
+.sec-fllo-bgg {
+    padding: 52px 0px 0px 0px;
+    height: 187px !important;
+    margin: 25px 0px;
+}
+.sec-name-o {
+    font-size: 23px;
+}
+.sec-father-p {
+    font-size: 16px;
+}
+.sec-add-p {
+    font-size: 13px;
+}
+.sec-manin-add2 , .sec-manin-add22 , .sec-manin-add223 {
+    font-size: 16px;
+
+}
+.secwelocom-p {
+    font-size: 30px;
+}
+.sec-manin-add {
+    font-size: 16px;
+}
+.sec-date-p {
+    color: #F5F5F5;
+    text-align: center;
+    font-size: 22px;
+
+}
+.sec-brd-b {
+    padding: 10px;
+}
+.sec-arrow-im {
+    width: 203px;
+}
+div#projects {
+    margin-top: -67px;
+}
   }
